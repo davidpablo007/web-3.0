@@ -67,3 +67,26 @@
     border: 1px solid #fff;
     margin-top: 15px;
 }
+.box{
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+}
+.box1 > img{
+    width: 80%;
+    height: 100%;
+}
+.retro > h2{
+    font-family:  'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.retro > h4{
+    margin: 8px 0;
+    font-family: poppins;
+}
+.retro > p{
+    font-family:  'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: gray;
+    font-size: 18px;
+
+}
